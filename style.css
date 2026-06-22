@@ -1,0 +1,16 @@
+header {
+background-color: #183C63;
+color: #FFFFFF;
+text-align: center;
+font-size: large;
+margin: 50px;
+}
+
+main {
+background-color: #000000;
+color: #183C63;
+text-align: left;
+line-height: 1.5;
+border: #291d1d;
+margin: 20px;
+}
